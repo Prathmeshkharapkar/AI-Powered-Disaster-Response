@@ -67,6 +67,7 @@ Starts the Streamlit dashboard for real-time visualization.
 
 (fetch_weather_data.py>>cluster_risk_zones.py>>optimize_routes.py>>dashboard.py)
 
+(NOTE: File already has csv files,you can directly run using streamlit run dashboard.py )
 
 ## Usage
 
